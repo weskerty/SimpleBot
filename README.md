@@ -1,4 +1,4 @@
-# Lottie Animations (.json) and Telegram Stickers (*.tgs) to GIF/PNG/APNG/WEBP/WEBM converter
+# LSimplebot
 
 # Video Demostrativo
 https://github.com/user-attachments/assets/c7ce3b98-7b0b-44ab-b9bf-c0f4fff7fb6d
@@ -37,6 +37,7 @@ winget install python3 -e --scope machine --source winget
 ### Win7:
 Open CMD and Run:
 Install Chocolatey:
+https://anilmainali.github.io/2016-06-01-How-To-Install-Chocolatey-on-Windows-7/
 ```
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
 
